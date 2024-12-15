@@ -7,7 +7,7 @@ https://unrealengineresources.com/
 ## Quick Overview :
 The sample provides two main interaction Mechanics :
 - Physics Grabbing
-- Mesh Cutting
+- Mesh Cutting / Restoring
 
 
 ## Inputs :
