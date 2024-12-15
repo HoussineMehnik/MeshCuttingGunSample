@@ -1,2 +1,32 @@
-# MeshCuttingGunSample
-Mesh-cutting mechanics
+https://unrealengineresources.com/
+
+# Mesh Cutting Gun Sample
+![Utilities](Resources/SplashScreen.png)
+
+
+## Quick Overview :
+
+The sample provides two main interaction Mechanics
+Physics Grabbing
+Mesh Cutting
+
+
+## Inputs :
+
+### Character :
+WASD : Movement
+Space Bar : Jump
+
+### Weapon :
+Left Mouse Button : Shoot Projectile
+
+### Interaction (Shared) :
+Right Mouse Button (Pressed) : Start Interaction 
+Right Mouse Button (Released) : End Interaction 
+Middle Mouse Button : Cancel Interaction 
+
+### Mesh Cut Interaction :
+Mouse Wheel : Modify cutting shape width
+
+
+## More documentation coming soon... :) 
