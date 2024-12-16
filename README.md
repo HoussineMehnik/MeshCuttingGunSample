@@ -24,6 +24,7 @@ The sample provides two main interaction Mechanics :
 - Middle Mouse Button : Cancel Interaction 
 
 #### Mesh Cut Interaction :
+- Tab : Switch Cut Shapes
 - Mouse Wheel : Modify cutting shape width
 
 
